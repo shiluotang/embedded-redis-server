@@ -3,7 +3,7 @@
 
     <groupId>org.sqg</groupId>
     <artifactId>embedded-redis-server</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>embedded-redis-server</name>
